@@ -1,0 +1,1 @@
+﻿INSERT INTO [dbo].[LOGIN] ([USERNAME], [PASSWORD]) VALUES ('aasri', '1234')
